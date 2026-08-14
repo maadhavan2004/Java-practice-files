@@ -11,5 +11,6 @@ class scanprob {
         System.out.println("The age is : " + n);
         System.out.println("The name is : " + a);
         
+        
     }
 }
